@@ -10,7 +10,7 @@ x2 = np.sin(5*t+delta)
 y3 = np.sin(4*t)
 y4 = np.sin(6*t)
 
-plt.title('Фигуры Лисажу')
+plt.title('Фигуры Лисcажу')
 plt.xlabel('x')
 plt.ylabel('y')
 plt.grid()
